@@ -1,2 +1,2 @@
-# Vue-Kugou
-仿酷狗
+# music-player
+vue+MuseUI
