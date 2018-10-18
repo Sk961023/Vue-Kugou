@@ -15,5 +15,3 @@ module.exports = {
         }
     }
 }
-// // .env.development
-// VUE_APP_BASE_API=/api
